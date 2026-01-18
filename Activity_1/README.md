@@ -1,4 +1,5 @@
-ABOUT THE PROGRAM
+ABOUT THE PROGRAM 
+
 This program is a simple library system made in Java. It lets the user add books, update if a book is borrowed or returned, and view all books stored in the system. 
 This activity was made to practice basic Java programming.
 
