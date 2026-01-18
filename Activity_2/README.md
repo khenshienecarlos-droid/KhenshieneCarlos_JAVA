@@ -13,6 +13,11 @@ What The Program Does
 -Updated page numbers and author values
 -Stored books in an array and displayed books published after 2010
 
+Classes Used
+
+Book.java – defines the Book class with properties, constructor, and methods
+MyBookList.java – main program that creates and manages book objects
+
 Java Concepts Used
 
 Arrays, methods, loops, if-else, switch-case, and Scanner for input.
