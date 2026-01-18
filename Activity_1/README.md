@@ -3,7 +3,7 @@ ABOUT THE PROGRAM
 This program is a simple library system made in Java. It lets the user add books, update if a book is borrowed or returned, and view all books stored in the system. 
 This activity was made to practice basic Java programming.
 
-What the Program Can Do
+What the Program Does
 
 Shows a menu where the user can choose what to do
 Add a new book (max of 5 books only, default status is Available)
