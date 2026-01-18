@@ -14,6 +14,11 @@ What the Program Does
 -Displays customer info and total customers using a static method
 -Calculates how many rewards a customer can redeem
 
+Classes Used
+
+Customer.java – defines customer properties, points, and reward methods
+CoffeeShop.java – main class that creates customers and tests the system
+
 Concepts Used
 
 Constructors, this keyword, static variables and methods, classes and objects, and basic OOP principles.
