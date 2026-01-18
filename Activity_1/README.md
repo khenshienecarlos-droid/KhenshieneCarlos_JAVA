@@ -12,6 +12,10 @@ Display all books with their status
 Generate a report showing total, available, and borrowed books
 Handles invalid inputs and exits properly
 
+Classes Used
+
+LibraryManagementSystem.java – contains the main program and all methods for managing books
+
 Java Concepts Used
 
 Arrays, methods, loops, if-else, switch-case, and Scanner for input.
