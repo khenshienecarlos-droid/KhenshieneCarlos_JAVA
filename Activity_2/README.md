@@ -4,7 +4,7 @@ This program is about practicing basic Object-Oriented Programming in Java. It u
 The goal of this activity is to understand how classes work, how objects are created, and how methods are used to change and display object data.
 The program creates several book objects, updates some of their values, and stores them in an array to perform simple operations like filtering books by year.
 
-What The Program Can Do
+What The Program Does
 
 -Created a Book class in a separate file
 -Used properties, constructor, and methods
